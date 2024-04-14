@@ -1,0 +1,1 @@
+console.log("R$ " + (0.1 + 0.2).toFixed(2).toString().replace('.',',')) // 0.300000004 = R$ 0,30 
